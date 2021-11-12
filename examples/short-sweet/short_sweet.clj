@@ -30,7 +30,7 @@
 
 ;; ---
 ;; The schema defines specmonstah `ent-types`, which roughly
-;; correspond to db tables. It also defines the `:spec` for generting
+;; correspond to db tables. It also defines the `:spec` for generating
 ;; ents of that type, and defines ent `relations` that specify how
 ;; ents reference each other
 (def schema
